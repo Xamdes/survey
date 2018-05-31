@@ -25,7 +25,9 @@ HTML, CSS, Javascript, jQuery, Bootstrap
 
 ## Installation
 
-Clone from https://github.com/Xamdes/survey.git
+Clone from:
+ https://github.com/Xamdes/survey.git
+ https://github.com/swatisahay/survey-forms.git
 
 ## Requirements
 
